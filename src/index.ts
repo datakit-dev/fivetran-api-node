@@ -6,7 +6,7 @@ interface Args {
     apiSecret: string;
 }
 
-export const FivetranAPI = (args: Args) => {
+export const FivetranAPI = (args?: Args) => {
     let client: Client;
     if (args && args.apiKey && args.apiSecret) {
         client = new Client(args.apiKey, args.apiSecret);
