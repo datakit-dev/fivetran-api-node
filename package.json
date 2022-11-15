@@ -1,6 +1,6 @@
 {
   "name": "fivetran-api-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fivetran API client for node (Typescript).",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
