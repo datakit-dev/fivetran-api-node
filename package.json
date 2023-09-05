@@ -1,5 +1,5 @@
 {
-  "name": "fivetran-api-node",
+  "name": "@datakit-dev/fivetran-api-node",
   "version": "1.0.4",
   "description": "Fivetran API client for node (Typescript).",
   "main": "dist/index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jordanfowler/fivetran-api-node.git"
+    "url": "git+https://github.com/datakit-dev/fivetran-api-node.git"
   },
   "keywords": [
     "fivetran",
@@ -21,9 +21,9 @@
   "author": "Jordan Fowler (me@jordanfowler.co)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jordanfowler/fivetran-api-node/issues"
+    "url": "https://github.com/datakit-dev/fivetran-api-node/issues"
   },
-  "homepage": "https://github.com/jordanfowler/fivetran-api-node#readme",
+  "homepage": "https://github.com/datakit-dev/fivetran-api-node#readme",
   "dependencies": {
     "@types/node": "^18.11.9",
     "@types/node-fetch": "^2.6.2",
